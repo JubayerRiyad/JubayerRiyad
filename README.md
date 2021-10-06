@@ -28,6 +28,9 @@
 
 <br />
 <br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayerriyad&show_icons=true) 
+
 ---
 
 <details>
