@@ -39,6 +39,8 @@
 
 </details>
 
+![Profile views](https://gpvc.arturio.dev/jubayerriyad) 
+
 [website]: JubayerRiyad.com
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [youtube]: https://www.youtube.com/channel/UCrYu9dR73RQC-faVVc_uIjA
