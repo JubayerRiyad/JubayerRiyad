@@ -30,16 +30,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayerriyad&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerriyad&layout=compact)
-
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
@@ -48,9 +39,9 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
+[website]: JubayerRiyad.com
 [linkedin]: https://linkedin.com/in/annaarsentieva
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[youtube]: https://www.youtube.com/channel/UCrYu9dR73RQC-faVVc_uIjA
 [instagram]: https://www.instagram.com/jubayer_riyad/
 [github]: https://www.github.com/jubayerriyad/
 [portfolio]: JubayerRiyad.com
