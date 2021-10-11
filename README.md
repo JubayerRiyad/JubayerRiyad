@@ -12,7 +12,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
-Skills:
+## 🎓 Skills:!!
 - Python, C, Java
 - HTML, CSS, JavaScript & Bootstrap
 - Flask & Django (Python Frameworks)
