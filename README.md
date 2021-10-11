@@ -32,6 +32,11 @@
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jubayerriyad&repo=github-readme-stats)](https://github.com/jubayerriyad/github-readme-stats)
+
+
+---
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
