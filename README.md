@@ -28,11 +28,12 @@
 <br />
 <br />
 
+## :trophy: My Github Stats:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayerriyad&show_icons=true) 
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jubayerriyad&repo=github-readme-stats)](https://github.com/jubayerriyad/github-readme-stats)
 
 
 ---
