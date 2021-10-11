@@ -12,6 +12,13 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
+Skills:
+- Python, C, Java
+- HTML, CSS, JavaScript & Bootstrap
+- Flask & Django (Python Frameworks)
+- MongoDB, SQLite3, PostgreSQL
+- Public Speaking
+
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,11 +40,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayerriyad&show_icons=true) 
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerriyad&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="jubayerriyad's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerriyad&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="jubayerriyad's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerriyad&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerriyad&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
+ 
 
 
 ---
