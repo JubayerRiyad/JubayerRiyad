@@ -49,6 +49,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/jubayerriyad) 
 
+## Description ##
+
+[![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
+
 [website]: JubayerRiyad.com
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [youtube]: https://www.youtube.com/channel/UCrYu9dR73RQC-faVVc_uIjA
