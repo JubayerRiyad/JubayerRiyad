@@ -14,9 +14,9 @@
 
 ### Skills:
 - Python, C, Java
-- HTML, CSS, JavaScript & Bootstrap
-- Flask & Django (Python Frameworks)
-- MongoDB, SQLite3, PostgreSQL
+- HTML, CSS, JavaScript, jQuery & Bootstrap
+- PHP & mySQL (PHP Frameworks)
+- Shopify, eCommerce, Woocommerce
 - Public Speaking
 
 
