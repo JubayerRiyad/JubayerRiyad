@@ -5,8 +5,8 @@
 
 ## 🎓 I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m currently working on my Portfolio.
+- 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
