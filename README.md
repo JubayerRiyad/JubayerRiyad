@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: Him/His
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 ### Skills:
