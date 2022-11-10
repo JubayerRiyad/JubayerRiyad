@@ -59,4 +59,4 @@
 [youtube]: https://www.youtube.com/channel/UCrYu9dR73RQC-faVVc_uIjA
 [instagram]: https://www.instagram.com/jubayer_riyad/
 [github]: https://www.github.com/jubayerriyad/
-[portfolio]: https://jubayerriyad.com/portfolio/
+[portfolio]: https://www.behance.net/JubayerRiyad/
