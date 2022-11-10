@@ -55,7 +55,7 @@
 
 
 [website]: JubayerRiyad.com
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: https://www.linkedin.com/in/jubayerriyad/
 [youtube]: https://www.youtube.com/channel/UCrYu9dR73RQC-faVVc_uIjA
 [instagram]: https://www.instagram.com/jubayer_riyad/
 [github]: https://www.github.com/jubayerriyad/
