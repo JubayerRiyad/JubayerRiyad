@@ -56,7 +56,7 @@
 
 [website]: JubayerRiyad.com
 [linkedin]: https://www.linkedin.com/in/jubayerriyad/
-[youtube]: https://www.youtube.com/channel/UCrYu9dR73RQC-faVVc_uIjA
+[youtube]: https://www.youtube.com/@JubayerRiyad
 [instagram]: https://www.instagram.com/jubayer_riyad/
 [github]: https://www.github.com/jubayerriyad/
 [portfolio]: https://www.behance.net/JubayerRiyad/
