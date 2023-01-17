@@ -44,6 +44,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerriyad&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="jubayerriyad's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerriyad&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
 
 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
