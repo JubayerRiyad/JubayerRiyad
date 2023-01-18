@@ -232,6 +232,8 @@
 </table>
 
 
+
+
 ## :trophy: My Github Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerriyad&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="jubayerriyad's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerriyad&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
@@ -246,7 +248,26 @@
 
 </details>
 
-![Profile views](https://gpvc.arturio.dev/jubayerriyad) 
+
+
+
+## :Views and Followers
+
+<h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/JubayerRiyad/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=JubayerRiyad">
+</a>
+    <a href="https://github.com/JubayerRiyad?tab=followers">
+        <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p> 
+
+
 
 
 [website]: JubayerRiyad.com
