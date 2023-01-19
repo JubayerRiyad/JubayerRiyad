@@ -1,7 +1,5 @@
 ### Hello World, I'm Jubayer Riyad  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
 
 ## 🎓 I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
@@ -19,6 +17,7 @@
 - Shopify, eCommerce, Woocommerce
 - Public Speaking
 
+<br/>
 
 <div>
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
@@ -35,7 +34,7 @@
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
