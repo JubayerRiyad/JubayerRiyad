@@ -234,6 +234,22 @@
 
 
 
+<br/>
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NdekoCode&show_icons=true&locale=en" alt="NdekoCode" width="250" />
+</p>
+
+[![Ndekocode's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NdekoCode&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+<br/>
+
+
+
+
+
 ## :trophy: My Github Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerriyad&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="jubayerriyad's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerriyad&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
