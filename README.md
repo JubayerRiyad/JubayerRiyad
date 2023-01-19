@@ -21,7 +21,7 @@
 
 
 <div>
-<img src="./assets/img/banner-fullstack.gif" align="center" width="100%">
+<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
 
 
