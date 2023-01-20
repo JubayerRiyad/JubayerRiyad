@@ -241,7 +241,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
 </p>
 <br/>
 
