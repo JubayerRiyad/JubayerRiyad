@@ -12,7 +12,7 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;### Skills:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Skills:
 - Python, C, Java
 - HTML, CSS, JavaScript, jQuery & Bootstrap
 - PHP & mySQL (PHP Frameworks)
