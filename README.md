@@ -32,10 +32,15 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="holisitc_developer | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+
+
+
+
 
 <br/>
 
@@ -283,6 +288,7 @@
 
 [website]: JubayerRiyad.com
 [linkedin]: https://www.linkedin.com/in/JubayerRiyad/
+[twitter]: https://www.whitter.com/JubayerRiyad/
 [youtube]: https://www.youtube.com/@JubayerRiyad/
 [instagram]: https://www.instagram.com/jubayer_riyad/
 [github]: https://www.github.com/jubayerriyad/
