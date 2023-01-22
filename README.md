@@ -37,7 +37,7 @@
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="holisitc_developer | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-
+[<img align="left" alt="holisitc_developer | tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
 
 
@@ -291,6 +291,7 @@
 [twitter]: https://www.whitter.com/JubayerRiyad/
 [youtube]: https://www.youtube.com/@JubayerRiyad/
 [instagram]: https://www.instagram.com/jubayer_riyad/
-[github]: https://www.github.com/jubayerriyad/
+[github]: https://www.github.com/JubayerRiyad/
 [portfolio]: https://www.behance.net/JubayerRiyad/
 [behance]: https://www.behance.net/JubayerRiyad/
+[tiktok]: https://www.tiktok.com/@jubayerriyad/
