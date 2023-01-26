@@ -30,7 +30,7 @@
 
 [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
 
-### Talk with me, I am kinda awesome:
+### Talk with Jubayer Riyad, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -54,7 +54,7 @@
 <br />
 
 
-## My favorite tools and technologies ⚙️ 
+## Jubayer Riyad favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -263,7 +263,7 @@
 
 
 
-## :trophy: My Github Stats:
+## :trophy: Jubayer Riyad Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
 
