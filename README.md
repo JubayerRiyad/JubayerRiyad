@@ -58,7 +58,7 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table align="center&theme=github_dark">
+<table align="center">
 
   <tr>
      <td align="center" width="96">
@@ -68,7 +68,7 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#macropower-tech&theme=github_dark">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
