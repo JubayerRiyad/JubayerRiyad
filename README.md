@@ -58,7 +58,7 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table align="center">
+<table align="center&theme=github_dark">
 
   <tr>
      <td align="center" width="96">
@@ -238,7 +238,7 @@
       <br>Node js
     </td>
     <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg&theme=github_dark" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
     </td>
   </tr>
