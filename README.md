@@ -238,7 +238,7 @@
       <br>Node js
     </td>
     <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg&theme=github_dark" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
     </td>
   </tr>
@@ -249,7 +249,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en&theme=github_dark" alt="JubayerRiyad" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
 </p>
 <br/>
 
