@@ -7,7 +7,7 @@ assignees: JubayerRiyad
 
 ---
 
-# Suggested title
+# Suggested titles
 
 # A small description
 
