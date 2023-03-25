@@ -288,7 +288,7 @@
 
 
 
-[website]: JubayerRiyad.com
+[website]: 
 [linkedin]: https://www.linkedin.com/in/JubayerRiyad/
 [twitter]: https://www.whitter.com/JubayerRiyad/
 [youtube]: https://www.youtube.com/@JubayerRiyad/
