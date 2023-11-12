@@ -3,14 +3,13 @@
 ![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Jubayer+Riyad;JubayerRiyad)
 
 
-## 🎓 I'm Jubayer Riyad Web Design & Developer!!
+## 🎓 I'm Jubayer Riyad Web Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on open source
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 ### Skills:
 - Python, C, Java
